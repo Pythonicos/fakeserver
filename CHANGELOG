@@ -1,0 +1,4 @@
+v1.1.0 - Adicionado rota não autorizado
+v1.0.2 - Adiciona tratamente de cabeçalhos (redirect e custom)
+v1.0.1 - Adicionado requests em requirements
+v1.0.0 - Arquivos iniciais
