@@ -1,3 +1,5 @@
+### ROTAS PARA CONFIGURAÇÃO
+
 ##### TEMPLATES:
 
 esses são os templates que já existem
@@ -27,8 +29,8 @@ ao acessar teste.html ele responde not_found.html (sem redirect)
 > helper.set_redirect_chain_from_url("redirect1.html", [
         "redirect2.html",
         "redirect3.html",
-        "teste.html",  # sempre termina em um TEMPLATE ou DOWNLOAD de arquivo
-    ])
+        "teste.html"
+    ])  # sempre termina em um TEMPLATE ou DOWNLOAD de arquivo
 
 #### CRIAR DOWNLOAD DE ARQUIVO
 
