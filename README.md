@@ -1,6 +1,6 @@
 # FakeServer - Mockable Webserver
 
-Com o fakeserver você consegue simular comportamentos, downloads, etc. Você consegue fazer alterações das rotas em tempo de execução.
+Com o fakeserver você consegue simular comportamentos, downloads, etc, perfeito para execução de testes de integração. Você consegue fazer alterações das rotas em tempo de execução.
 
 ### ROTAS PARA CONFIGURAÇÃO
 
